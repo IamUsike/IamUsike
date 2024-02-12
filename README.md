@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ...Web-app pentesting 
 - 💞️ I’m looking to collaborate on ...some cool projects or smth ig 
 - 📫 How to reach me ...discord @iamusickk
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...iamusike
 
 <!---
