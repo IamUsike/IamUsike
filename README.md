@@ -82,6 +82,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=musick&show_icons=true&locale=en" alt="musick" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musick&" alt="musick" />
-</p>
