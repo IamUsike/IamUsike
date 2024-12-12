@@ -68,14 +68,3 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=musick&show_icons=true&locale=en&layout=compact" alt="musick" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=musick&show_icons=true&locale=en" alt="musick" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musick&" alt="musick" />
-</p>
